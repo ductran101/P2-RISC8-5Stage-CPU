@@ -1,0 +1,21 @@
+# Temporary simulation files
+*.vvp
+*.vcd
+*.wdb
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vivado temporary files
+.Xil/
+*.jou
+*.pb
+
+# Backup files
+*.bak
+README_original.md
+
+# OS temporary files
+.DS_Store
+*~
